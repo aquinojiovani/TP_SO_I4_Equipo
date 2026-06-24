@@ -1,0 +1,11 @@
+INTEGRANTES:
+Aquino Jovani
+Adriel Maidana
+
+
+A-Blue, porque en el paso 12 BETA lo cambia
+B-Yellow, porque en el paso 13 ALFA lo cambia en la rama desarrollo
+C-.......
+D-Quedo el favicon del ultimo merge
+E-Despues de intentar el primer push recibimo un rechazo
+
