@@ -8,4 +8,8 @@ B-Yellow, porque en el paso 13 ALFA lo cambia en la rama desarrollo
 C-.......
 D-Quedo el favicon del ultimo merge
 E-Despues de intentar el primer push recibimo un rechazo
-
+F-El único problema fue que al hacer el primer push, recibimos un rechazo
+G-La solución que se puede aplicar es usar git pull y hacer de nuevo el git push
+desconocemos que tipo de consecuencia puede traer el usar ese comando
+H-Al usar el comando push -f, tira el mensaje de "Everything up-to-date"
+I-Se tendría que usar el comando merge DESARROLLO
